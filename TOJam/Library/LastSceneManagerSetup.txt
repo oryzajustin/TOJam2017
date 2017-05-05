@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Scenes/test1_justin.unity
+  isLoaded: 1
+  isActive: 1

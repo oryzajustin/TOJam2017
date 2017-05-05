@@ -1,0 +1,3914 @@
+fileFormatVersion: 2
+guid: 50671c70963414640a5ec1956c230185
+timeCreated: 1494008396
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: maincharacter_0
+    21300002: maincharacter_1
+    21300004: maincharacter_2
+    21300006: maincharacter_3
+    21300008: maincharacter_4
+    21300010: maincharacter_5
+    21300012: maincharacter_6
+    21300014: maincharacter_7
+    21300016: maincharacter_8
+    21300018: maincharacter_9
+    21300020: maincharacter_10
+    21300022: maincharacter_11
+    21300024: maincharacter_12
+    21300026: maincharacter_13
+    21300028: maincharacter_14
+    21300030: maincharacter_15
+    21300032: maincharacter_16
+    21300034: maincharacter_17
+    21300036: maincharacter_18
+    21300038: maincharacter_19
+    21300040: maincharacter_20
+    21300042: maincharacter_21
+    21300044: maincharacter_22
+    21300046: maincharacter_23
+    21300048: maincharacter_24
+    21300050: maincharacter_25
+    21300052: maincharacter_26
+    21300054: maincharacter_27
+    21300056: maincharacter_28
+    21300058: maincharacter_29
+    21300060: maincharacter_30
+    21300062: maincharacter_31
+    21300064: maincharacter_32
+    21300066: maincharacter_33
+    21300068: maincharacter_34
+    21300070: maincharacter_35
+    21300072: maincharacter_36
+    21300074: maincharacter_37
+    21300076: maincharacter_38
+    21300078: maincharacter_39
+    21300080: maincharacter_40
+    21300082: maincharacter_41
+    21300084: maincharacter_42
+    21300086: maincharacter_43
+    21300088: maincharacter_44
+    21300090: maincharacter_45
+    21300092: maincharacter_46
+    21300094: maincharacter_47
+    21300096: maincharacter_48
+    21300098: maincharacter_49
+    21300100: maincharacter_50
+    21300102: maincharacter_51
+    21300104: maincharacter_52
+    21300106: maincharacter_53
+    21300108: maincharacter_54
+    21300110: maincharacter_55
+    21300112: maincharacter_56
+    21300114: maincharacter_57
+    21300116: maincharacter_58
+    21300118: maincharacter_59
+    21300120: maincharacter_60
+    21300122: maincharacter_61
+    21300124: maincharacter_62
+    21300126: maincharacter_63
+    21300128: maincharacter_64
+    21300130: maincharacter_65
+    21300132: maincharacter_66
+    21300134: maincharacter_67
+    21300136: maincharacter_68
+    21300138: maincharacter_69
+    21300140: maincharacter_70
+    21300142: maincharacter_71
+    21300144: maincharacter_72
+    21300146: maincharacter_73
+    21300148: maincharacter_74
+    21300150: maincharacter_75
+    21300152: maincharacter_76
+    21300154: maincharacter_77
+    21300156: maincharacter_78
+    21300158: maincharacter_79
+    21300160: maincharacter_80
+    21300162: maincharacter_81
+    21300164: maincharacter_82
+    21300166: maincharacter_83
+    21300168: maincharacter_84
+    21300170: maincharacter_85
+    21300172: maincharacter_86
+    21300174: maincharacter_87
+    21300176: maincharacter_88
+    21300178: maincharacter_89
+    21300180: maincharacter_90
+    21300182: maincharacter_91
+    21300184: maincharacter_92
+    21300186: maincharacter_93
+    21300188: maincharacter_94
+    21300190: maincharacter_95
+    21300192: maincharacter_96
+    21300194: maincharacter_97
+    21300196: maincharacter_98
+    21300198: maincharacter_99
+    21300200: maincharacter_100
+    21300202: maincharacter_101
+    21300204: maincharacter_102
+    21300206: maincharacter_103
+    21300208: maincharacter_104
+    21300210: maincharacter_105
+    21300212: maincharacter_106
+    21300214: maincharacter_107
+    21300216: maincharacter_108
+    21300218: maincharacter_109
+    21300220: maincharacter_110
+    21300222: maincharacter_111
+    21300224: maincharacter_112
+    21300226: maincharacter_113
+    21300228: maincharacter_114
+    21300230: maincharacter_115
+    21300232: maincharacter_116
+    21300234: maincharacter_117
+    21300236: maincharacter_118
+    21300238: maincharacter_119
+    21300240: maincharacter_120
+    21300242: maincharacter_121
+    21300244: maincharacter_122
+    21300246: maincharacter_123
+    21300248: maincharacter_124
+    21300250: maincharacter_125
+    21300252: maincharacter_126
+    21300254: maincharacter_127
+    21300256: maincharacter_128
+    21300258: maincharacter_129
+    21300260: maincharacter_130
+    21300262: maincharacter_131
+    21300264: maincharacter_132
+    21300266: maincharacter_133
+    21300268: maincharacter_134
+    21300270: maincharacter_135
+    21300272: maincharacter_136
+    21300274: maincharacter_137
+    21300276: maincharacter_138
+    21300278: maincharacter_139
+    21300280: maincharacter_140
+    21300282: maincharacter_141
+    21300284: maincharacter_142
+    21300286: maincharacter_143
+    21300288: maincharacter_144
+    21300290: maincharacter_145
+    21300292: maincharacter_146
+    21300294: maincharacter_147
+    21300296: maincharacter_148
+    21300298: maincharacter_149
+    21300300: maincharacter_150
+    21300302: maincharacter_151
+    21300304: maincharacter_152
+    21300306: maincharacter_153
+    21300308: maincharacter_154
+    21300310: maincharacter_155
+    21300312: maincharacter_156
+    21300314: maincharacter_157
+    21300316: maincharacter_158
+    21300318: maincharacter_159
+    21300320: maincharacter_160
+    21300322: maincharacter_161
+    21300324: maincharacter_162
+    21300326: maincharacter_163
+    21300328: maincharacter_164
+    21300330: maincharacter_165
+    21300332: maincharacter_166
+    21300334: maincharacter_167
+    21300336: maincharacter_168
+    21300338: maincharacter_169
+    21300340: maincharacter_170
+    21300342: maincharacter_171
+    21300344: maincharacter_172
+    21300346: maincharacter_173
+    21300348: maincharacter_174
+    21300350: maincharacter_175
+    21300352: maincharacter_176
+    21300354: maincharacter_177
+    21300356: maincharacter_178
+    21300358: maincharacter_179
+    21300360: maincharacter_180
+    21300362: maincharacter_181
+    21300364: maincharacter_182
+    21300366: maincharacter_183
+    21300368: maincharacter_184
+    21300370: maincharacter_185
+    21300372: maincharacter_186
+    21300374: maincharacter_187
+    21300376: maincharacter_188
+    21300378: maincharacter_189
+    21300380: maincharacter_190
+    21300382: maincharacter_191
+    21300384: maincharacter_192
+    21300386: maincharacter_193
+    21300388: maincharacter_194
+    21300390: maincharacter_195
+    21300392: maincharacter_196
+    21300394: maincharacter_197
+    21300396: maincharacter_198
+    21300398: maincharacter_199
+    21300400: maincharacter_200
+    21300402: maincharacter_201
+    21300404: maincharacter_202
+    21300406: maincharacter_203
+    21300408: maincharacter_204
+    21300410: maincharacter_205
+    21300412: maincharacter_206
+    21300414: maincharacter_207
+    21300416: maincharacter_208
+    21300418: maincharacter_209
+    21300420: maincharacter_210
+    21300422: maincharacter_211
+    21300424: maincharacter_212
+    21300426: maincharacter_213
+    21300428: maincharacter_214
+    21300430: maincharacter_215
+    21300432: maincharacter_216
+    21300434: maincharacter_217
+    21300436: maincharacter_218
+    21300438: maincharacter_219
+    21300440: maincharacter_220
+    21300442: maincharacter_221
+    21300444: maincharacter_222
+    21300446: maincharacter_223
+    21300448: maincharacter_224
+    21300450: maincharacter_225
+    21300452: maincharacter_226
+    21300454: maincharacter_227
+    21300456: maincharacter_228
+    21300458: maincharacter_229
+    21300460: maincharacter_230
+    21300462: maincharacter_231
+    21300464: maincharacter_232
+    21300466: maincharacter_233
+    21300468: maincharacter_234
+    21300470: maincharacter_235
+    21300472: maincharacter_236
+    21300474: maincharacter_237
+    21300476: maincharacter_238
+    21300478: maincharacter_239
+    21300480: maincharacter_240
+    21300482: maincharacter_241
+    21300484: maincharacter_242
+    21300486: maincharacter_243
+    21300488: maincharacter_244
+    21300490: maincharacter_245
+    21300492: maincharacter_246
+    21300494: maincharacter_247
+    21300496: maincharacter_248
+    21300498: maincharacter_249
+    21300500: maincharacter_250
+    21300502: maincharacter_251
+    21300504: maincharacter_252
+    21300506: maincharacter_253
+    21300508: maincharacter_254
+    21300510: maincharacter_255
+    21300512: maincharacter_256
+    21300514: maincharacter_257
+    21300516: maincharacter_258
+    21300518: maincharacter_259
+    21300520: maincharacter_260
+    21300522: maincharacter_261
+    21300524: maincharacter_262
+    21300526: maincharacter_263
+    21300528: maincharacter_264
+    21300530: maincharacter_265
+    21300532: maincharacter_266
+    21300534: maincharacter_267
+    21300536: maincharacter_268
+    21300538: maincharacter_269
+    21300540: maincharacter_270
+    21300542: maincharacter_271
+    21300544: maincharacter_272
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maincharacter_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9648
+        width: 246
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 9435
+        width: 459
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 9430
+        width: 346
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_3
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 9262
+        width: 444
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 9493
+        width: 105
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 9430
+        width: 215
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 9333
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9328
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9244
+        width: 123
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_9
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 9236
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9106
+        width: 97
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 9106
+        width: 101
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 9106
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_13
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 9106
+        width: 101
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_14
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 9096
+        width: 65
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_15
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 9097
+        width: 91
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_16
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 9089
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_17
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 9096
+        width: 62
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_18
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 9106
+        width: 143
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9004
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_20
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 8952
+        width: 122
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_21
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 8952
+        width: 77
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_22
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 8954
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8874
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 8876
+        width: 130
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8869
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_26
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 8826
+        width: 97
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_27
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 8937
+        width: 99
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_28
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 8830
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_29
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 8801
+        width: 92
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_30
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 8695
+        width: 185
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_31
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 8724
+        width: 117
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8753
+        width: 121
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_33
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 8734
+        width: 99
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_34
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 8622
+        width: 91
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_35
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 8722
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8606
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8608
+        width: 94
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8606
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_39
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 8604
+        width: 140
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_40
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 8598
+        width: 101
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_41
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 8598
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 8508
+        width: 130
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_43
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 8353
+        width: 97
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 8352
+        width: 91
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_45
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 8507
+        width: 218
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_46
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 8502
+        width: 295
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8361
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_48
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8354
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_49
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8352
+        width: 233
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_50
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 8356
+        width: 143
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_51
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 8352
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_52
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 8352
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_53
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 8352
+        width: 135
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8250
+        width: 147
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_55
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 8269
+        width: 209
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8102
+        width: 99
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8101
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_58
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 8101
+        width: 161
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_59
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 8100
+        width: 130
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_60
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 8100
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_61
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 8100
+        width: 111
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_62
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 8101
+        width: 145
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_63
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 8003
+        width: 232
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_64
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 7960
+        width: 130
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_65
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 7960
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_66
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 7955
+        width: 122
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7868
+        width: 89
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_68
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7859
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_69
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 7866
+        width: 163
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_70
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 7863
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_71
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 7851
+        width: 130
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_72
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 7858
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_73
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 7832
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_74
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 7600
+        width: 314
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_75
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 7752
+        width: 232
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7608
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_77
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 7600
+        width: 222
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_78
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 7602
+        width: 159
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_79
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 7598
+        width: 87
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_80
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 7595
+        width: 91
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_81
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 7602
+        width: 118
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_82
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 7607
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_83
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 7602
+        width: 140
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_84
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 7520
+        width: 169
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_85
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 7481
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_86
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 7472
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_87
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 7467
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_88
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 7481
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_89
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 7375
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_90
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7367
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_91
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 7375
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_92
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 7375
+        width: 127
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_93
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 7405
+        width: 101
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7291
+        width: 207
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_95
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 7134
+        width: 208
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_96
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 7278
+        width: 118
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_97
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 7213
+        width: 316
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_98
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7139
+        width: 103
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_99
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7135
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7136
+        width: 169
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_101
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 7134
+        width: 114
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_102
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 7090
+        width: 104
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_103
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 7090
+        width: 147
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_104
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 7090
+        width: 144
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_105
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 6955
+        width: 100
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_106
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 6950
+        width: 84
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_107
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 6950
+        width: 130
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_108
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6943
+        width: 121
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_109
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 6941
+        width: 145
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_110
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 7019
+        width: 202
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6882
+        width: 473
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_112
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 6544
+        width: 807
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_113
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 6901
+        width: 159
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_114
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6730
+        width: 91
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_115
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 6737
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_116
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 6737
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_117
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 6737
+        width: 118
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_118
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 6612
+        width: 163
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_119
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6616
+        width: 154
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_120
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 6611
+        width: 149
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_121
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 6612
+        width: 123
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_122
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6534
+        width: 587
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_123
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6384
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_124
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 6384
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_125
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 6382
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_126
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 6384
+        width: 125
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_127
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 6384
+        width: 159
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_128
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 6379
+        width: 188
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_129
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6379
+        width: 149
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_130
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 6379
+        width: 394
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_131
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6284
+        width: 164
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_132
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 6123
+        width: 188
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_133
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 6123
+        width: 234
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_134
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 6297
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_135
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6186
+        width: 116
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_136
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 6166
+        width: 133
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_137
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 6137
+        width: 154
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_138
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 6118
+        width: 173
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_139
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 6158
+        width: 248
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_140
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 6128
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_141
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 6113
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_142
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 6089
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_143
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 6021
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_144
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6012
+        width: 155
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_145
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 6022
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_146
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 6050
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_147
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6017
+        width: 149
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_148
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 6026
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_149
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 6021
+        width: 130
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_150
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 6053
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_151
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 5702
+        width: 618
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_152
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 6026
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_153
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 5988
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_154
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 5877
+        width: 543
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_155
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 5644
+        width: 105
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_156
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5640
+        width: 118
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_157
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 5639
+        width: 92
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_158
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 5635
+        width: 91
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_159
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 5639
+        width: 87
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_160
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 5639
+        width: 157
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_161
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5509
+        width: 174
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_162
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 5492
+        width: 192
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_163
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 5499
+        width: 188
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_164
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 5587
+        width: 372
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_165
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 5492
+        width: 222
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_166
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 5550
+        width: 245
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_167
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 5533
+        width: 102
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_168
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 5509
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_169
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5355
+        width: 222
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_170
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 5374
+        width: 179
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_171
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 5374
+        width: 253
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_172
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 5374
+        width: 259
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_173
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 5369
+        width: 126
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_174
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 5369
+        width: 126
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_175
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5267
+        width: 118
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_176
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5277
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_177
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5277
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_178
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5267
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_179
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 5268
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_180
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 5287
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_181
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 5287
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_182
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 5272
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_183
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 5267
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_184
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 5267
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_185
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 5277
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_186
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 5277
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_187
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 5263
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_188
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 5263
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_189
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4890
+        width: 783
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_190
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 5162
+        width: 567
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_191
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3609
+        width: 1442
+        height: 1245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_192
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 4808
+        width: 618
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_193
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3462
+        width: 595
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_194
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 3232
+        width: 618
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_195
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 3261
+        width: 94
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_196
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3261
+        width: 167
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_197
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 3266
+        width: 135
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_198
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3063
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_199
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3019
+        width: 77
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_200
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2976
+        width: 149
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_201
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2976
+        width: 143
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_202
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2985
+        width: 246
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_203
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2938
+        width: 237
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_204
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 2938
+        width: 164
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_205
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2734
+        width: 158
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_206
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2690
+        width: 261
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_207
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2690
+        width: 246
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_208
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2719
+        width: 114
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_209
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2671
+        width: 105
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_210
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2669
+        width: 92
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_211
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2570
+        width: 446
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_212
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2289
+        width: 618
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_213
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2391
+        width: 99
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_214
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2507
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_215
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2509
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_216
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2478
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_217
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2396
+        width: 115
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_218
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2391
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_219
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2434
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_220
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2449
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_221
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2435
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_222
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2434
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_223
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2429
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_224
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2391
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_225
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2222
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_226
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2217
+        width: 111
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_227
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2222
+        width: 111
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_228
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2313
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_229
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2246
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_230
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2243
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_231
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2202
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_232
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2096
+        width: 608
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_233
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1825
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_234
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1825
+        width: 96
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_235
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1825
+        width: 91
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_236
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1825
+        width: 102
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_237
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1627
+        width: 235
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_238
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1728
+        width: 618
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1651
+        width: 234
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_240
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1643
+        width: 206
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_241
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1639
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_242
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1449
+        width: 122
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_243
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1443
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_244
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1438
+        width: 407
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_245
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1431
+        width: 128
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_246
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1404
+        width: 299
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_247
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1431
+        width: 135
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_248
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1393
+        width: 193
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_249
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1180
+        width: 529
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_250
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1197
+        width: 347
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_251
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1197
+        width: 155
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_252
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1095
+        width: 401
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_253
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 210
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_254
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 747
+        width: 401
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_255
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 747
+        width: 482
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 210
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_257
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 484
+        width: 406
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_258
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 491
+        width: 91
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_259
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 482
+        width: 352
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_260
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 481
+        width: 92
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_261
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 588
+        width: 286
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_262
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 210
+        width: 98
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_263
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 289
+        width: 425
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_264
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 206
+        width: 87
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_265
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 308
+        width: 430
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_266
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 65
+        width: 430
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_267
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 70
+        width: 135
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_268
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 76
+        width: 116
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_269
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 66
+        width: 167
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_270
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 70
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_271
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 85
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maincharacter_272
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 70
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
