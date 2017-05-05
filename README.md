@@ -6,5 +6,5 @@ Game developed at the 2017 Toronto Game Jam
 - [x] Player Animations (Movement + Attacks)
 - [ ] Enemy Animations
 - [ ] Enemy AI
-- [ ] Art
-- [ ] Music
+- [x] Art
+- [x] Music
