@@ -3,7 +3,9 @@ Game developed at the 2017 Toronto Game Jam
 
 ## TO-DO
 - [ ] Music Bar
-- [ ] Character Animations (Movement + Attacks)
+- [x] Player Animations (Movement + Attacks)
+- [ ] Enemy Animations
 - [ ] Enemy AI
-- [ ] Art
-- [ ] Music
+- [ ] Player Scripts
+- [x] Art
+- [x] Music
