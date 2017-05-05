@@ -5,15 +5,15 @@ using UnityEngine;
 public class Player : MonoBehaviour {
 
 	// Floats
-	public float maxSpeed = 3;
-	public float speed = 50f;
+	public float maxSpeed = 6;
+	public float speed = 100f;
 	public float jumpPower = 300f;
-	public float friction = 0.90f;
+	public float friction = 0.7f;
 	private int currentScale = 2;
 
 	// Booleans
 	public bool grounded;
-	public bool canDoubleJump;
+	// public bool canDoubleJump;
 
 
 	// References
@@ -36,7 +36,6 @@ public class Player : MonoBehaviour {
 		if(Input.GetAxis("Horizontal") < -0.1f) {
 			transform.localScale = new Vector3(-(currentScale), currentScale, 1);
 		}
-
 		if(Input.GetAxis("Horizontal") > 0.1f) {
 			transform.localScale = new Vector3(currentScale, currentScale, 1);
 		}
@@ -45,17 +44,17 @@ public class Player : MonoBehaviour {
 		if(Input.GetButtonDown("Jump")) {
 			if(grounded) {
 				rb2d.AddForce(Vector2.up * jumpPower);
-				canDoubleJump = true;
+				// canDoubleJump = true;
 			}
-			else {
-				if(canDoubleJump) {
-					canDoubleJump = false;
-					// Reset y velocity so can jump up no matter how much force going down
+			// else {
+			// 	if(canDoubleJump) {
+			// 		canDoubleJump = false;
+			// 		// Reset y velocity so can jump up no matter how much force going down
 
-					rb2d.velocity = new Vector2(rb2d.velocity.x, 0);
-					rb2d.AddForce(Vector2.up * jumpPower / 1.75f);
-				}
-			}
+			// 		rb2d.velocity = new Vector2(rb2d.velocity.x, 0);
+			// 		rb2d.AddForce(Vector2.up * jumpPower / 1.75f);
+			// 	}
+			// }
 		}
 	}
 
