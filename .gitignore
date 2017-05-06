@@ -5,4 +5,12 @@ TOJam/Assets/Sounds/
 TOJam/Library/metadata/*
 TOJam/Library/metadata/*/*
 TOJam/Library/metadata/*/*/*
-
+TOJam/Library/
+TOJam/Temp/
+TOJam/Obj/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.DS_store
